@@ -21,34 +21,34 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
-global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.botname = 'VIHANGA MD BOT'
-global.footer = 'VIHANGA MD'
-global.cap = '*Genarated By Vihanga Md*'
-global.ig = 'https://github.com/vihangabot'
+global.owner = ['79586848937']
+global.premium = ['79586848937']
+global.ownernomer = '79586848937'
+global.ownername = 'Alex Bot〽️'
+global.botname = 'Alex BOT'
+global.footer = 'Alex Bot'
+global.cap = '*Alex Bot*'
+global.ig = 'https://youtube.com/channel/UCeGgOY9B-5fYrYD5ELPgMkQ'
 global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
-global.sc = 'https://github.com/vihangabot'
-global.myweb = 'https://chat.whatsapp.com/BDge3i6chrQKWkkSRellyT'
-global.packname = 'Vihanga Md Sticker Bot'
-global.author = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
+global.sc = 'https://youtube.com/channel/UCeGgOY9B-5fYrYD5ELPgMkQ'
+global.myweb = 'https://wa.me/+79586848937'
+global.packname = 'Alex Sticker Bot'
+global.author = 'Alex Bot〽️'
 global.autobio = 'true'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.'💗'😙','😩','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'හරි ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'ටිකක් ඉන්න...',
-    error: 'අව්ලක්.වීඩියො එක ලොකු වැඩි ඇති🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    success: 'Alex Bot✓',
+    admin: 'هذه الميزة للمشرف فقط!',
+    botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
+    owner: 'هذه الميزة مخصصة فقط للمالك !!',
+    group: 'الميزة المستخدمة فقط للمجموعات!',
+    private: 'الميزات المستخدمة فقط للدردشة الخاصة!',
+    bot: 'هذه الميزة مخصصة فقط للبوت',
+    wait:'رجاء انتظر...',
+    error: ''خطأ!!! ربما انتهت صلاحية مفتاح Api 🤔!',
+    endLimit: 'انتهت صلاحية حدنا اليومي. سيتم إعادة تعيين الحد كل 12 ساعة',
 }
     global.limitawal = {
     premium: "Infinity",
